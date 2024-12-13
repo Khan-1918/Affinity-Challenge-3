@@ -48,9 +48,7 @@ Training Process:
 The dataset was split into training (80%) and testing (20%) sets.
 The target variable was defined as a binary classification (1 for late delivery, 0 otherwise).
 Class weights were adjusted to address class imbalance, ensuring the model doesn't underpredict late deliveries.
-Hyperparameter Optimization:
 
-Grid search and cross-validation were employed to optimize key parameters like learning rate, max depth, and number of estimators.
 
 3. Model Evaluation
 Performance Metrics:
